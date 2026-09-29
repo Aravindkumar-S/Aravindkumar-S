@@ -9,7 +9,9 @@
 
 I am an Application Engineer at GenNext specializing in PLM engineering solutions, cloud infrastructure management, and modern automation. My core focus bridges traditional enterprise engineering systems (like Teamcenter and NX) with cutting-edge AI automation, MCP servers, and cyber security workflows. I enjoy building robust automation and securing cloud environments using intelligent agents.
 
+
 🎯 **What I focus on**
+
 
 ⚙️ **PLM Solutions:** Managing, maintaining, and deploying enterprise engineering environments (Teamcenter, NX, and server architecture)
 
@@ -22,6 +24,7 @@ I am an Application Engineer at GenNext specializing in PLM engineering solution
 
 🧰 Tech stack
 
+
 **Engineering & PLM:** Teamcenter, NX, Main Landing Gear & Bicycle Design exercises
 
 **Cloud & Infrastructure:** Proxmox, Windows/Linux VM management, Virtual Private Networks (VPN)
@@ -33,10 +36,12 @@ I am an Application Engineer at GenNext specializing in PLM engineering solution
 
 🚀 **Featured projects**
 
+
 Projects coming soon...
 
 
 🤝 **Let's connect**
+
 
 🌐 Website: aravindkumar-s.github.io/portfolio
 
