@@ -59,13 +59,7 @@ Completed an internship at **NeuralArc Global** conducting penetration testing a
 - **Aerospace & Defence client** — Led end-to-end Teamcenter PLM implementation covering Requirements Management, Document Management (ECR/ECO workflows), Change Management, and ESOP process controls across Dev → QA → Production environments
 - **Cloud infrastructure** — Managing Proxmox-based VM environment for enterprise PLM and licence server infrastructure (Windows + Linux)
 - **AI training delivery** — Delivering structured AI/LLM training sessions at Tara Infotech
-
----
-
-## 📊 GitHub stats
-
-![Aravindkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aravindkumar-S&show_icons=true&theme=default&hide_border=true)
-
+  
 ---
 
 ## 🤝 Let's connect
