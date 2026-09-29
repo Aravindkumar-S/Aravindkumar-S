@@ -1,50 +1,77 @@
-### Aravindkumar S
+# Hi, I'm Aravindkumar S 👋
 
-**Application Engineer | PLM Engineering & Solutions | Cloud Infrastructure | AI-driven Cyber Security**
+**AI Automation Engineer · Cybersecurity · MCP & Agentic AI · Infrastructure**
 
-📍 Bengaluru, India  ·  Application Engineer at GenNext PLM Pvt Ltd
+📍 Bengaluru, India · Open to relocate: EU / UK / Sweden  
+✉️ info.aravindkumars@gmail.com  
+🌐 [Portfolio](https://aravindkumar-s.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/-aravindkumar-s)
 
+---
 
-👋 **About me**
+## 🤖 What I build
 
-I am an Application Engineer at GenNext specializing in PLM engineering solutions, cloud infrastructure management, and modern automation. My core focus bridges traditional enterprise engineering systems (like Teamcenter and NX, Cortona3D) with cutting-edge AI automation, MCP servers, and cyber security workflows. I enjoy building robust automation and securing cloud environments using intelligent agents.
+I build at the intersection of AI automation, cybersecurity, and infrastructure. My focus right now:
 
+- **Agentic AI & MCP servers** — connecting models to real workflows via Model Context Protocol
+- **AI-powered security tooling** — threat detection, log analysis, vulnerability automation
+- **ML pipelines** — supervised classification, phishing detection, cybersecurity threat modelling
+- **Workflow automation** — ServiceNow, Shell scripting, REST API integration
 
-🎯 **What I focus on**
+---
 
+## 🚀 Featured projects
 
-⚙️ **PLM Solutions:** Managing, maintaining, and deploying enterprise engineering environments (Teamcenter, NX, and server architecture)
+| Project | What it is | Stack |
+|---|---|---|
+| 🛡️ [Real-Time Phishing Detection](https://github.com/Aravindkumar-S/Real-Time-Phishing-Detection-Using-Artificial-Intelligence-ML) | End-to-end ML pipeline detecting phishing URLs — Random Forest / Decision Tree classifier trained on labeled URL datasets | Python, scikit-learn, Pandas, NumPy |
+| ⚙️ [ServiceNow Workflow Automation](https://github.com/Aravindkumar-S/ServiceNow-Service-Catalog-Project) | Full employee self-service catalog — WiFi router request with automated approval routing and fulfillment | ServiceNow, Workflow Engine |
+| 🌐 [Portfolio](https://aravindkumar-s.github.io/portfolio/) | Personal portfolio — PLM projects, cloud infrastructure, AI/ML work | HTML, GitHub Pages |
 
-☁️ **Cloud Infrastructure:** Configuring Windows/Linux virtual machine templates, Proxmox environments, and high-performance server nodes
+---
 
-🛡️ **Cyber Security & AI Agents:** Developing AI-driven security tools, real-time threat detection, and SecOps MCP servers
+## 🧰 Tech stack
 
-🤖 **Automation:** Streamlining engineering workflows and service management through intelligent tooling
+**AI & ML**  
+Python · scikit-learn · Pandas · NumPy · Ollama (local models) · Claude API · Supervised Learning
 
+**Automation & Architecture**  
+Shell Scripting · Java · REST APIs · ServiceNow · MCP (Model Context Protocol) · Docker · Git
 
-🧰 Tech stack
+**Infrastructure & Security**  
+Linux / Windows Administration · Proxmox VM · TCP/IP · VLANs · Penetration Testing · Vulnerability Assessment
 
+**Languages**  
+Python · Java · C++ · JavaScript · SQL · XML
 
-**Engineering & PLM:** Teamcenter, NX, Main Landing Gear & Bicycle Design exercises
+**Databases**  
+MySQL · Oracle · MSSQL
 
-**Cloud & Infrastructure:** Proxmox, Windows/Linux VM management, Virtual Private Networks (VPN)
+---
 
-**Programming & Scripting:** Python, HTML, Jupyter Notebook, Automation Scripts
+## 🔐 Cybersecurity background
 
-**Security & AI:** Model Context Protocol (MCP), Security Operations (SecOps), AI Agents
+Completed an internship at **NeuralArc Global** conducting penetration testing and vulnerability assessments across systems and network infrastructure. Applied ethical hacking methodologies to identify, exploit, and document vulnerabilities with structured remediation reports.
 
+---
 
-🚀 **Featured projects**
+## 🏗️ Enterprise experience
 
+- **Aerospace & Defence client** — Led end-to-end Teamcenter PLM implementation covering Requirements Management, Document Management (ECR/ECO workflows), Change Management, and ESOP process controls across Dev → QA → Production environments
+- **Cloud infrastructure** — Managing Proxmox-based VM environment for enterprise PLM and licence server infrastructure (Windows + Linux)
+- **AI training delivery** — Delivering structured AI/LLM training sessions at Tara Infotech
 
-Projects coming soon...
+---
 
+## 📊 GitHub stats
 
-🤝 **Let's connect**
+![Aravindkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aravindkumar-S&show_icons=true&theme=default&hide_border=true)
 
+---
 
-🌐 Website: aravindkumar-s.github.io/portfolio
+## 🤝 Let's connect
 
-💼 LinkedIn: in/-aravindkumar-s
+I'm actively building, learning, and looking for opportunities in AI engineering and automation — particularly in agentic AI, MCP server development, and AI-powered security tooling.
 
-🐦 X (Twitter): @arwin_1101
+Open to: remote roles · EU/UK/Sweden relocation · internships · collaborations
+
+📬 info.aravindkumars@gmail.com · [LinkedIn](https://www.linkedin.com/in/-aravindkumar-s)
