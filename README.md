@@ -7,7 +7,7 @@
 
 👋 **About me**
 
-I am an Application Engineer at GenNext specializing in PLM engineering solutions, cloud infrastructure management, and modern automation. My core focus bridges traditional enterprise engineering systems (like Teamcenter and NX) with cutting-edge AI automation, MCP servers, and cyber security workflows. I enjoy building robust automation and securing cloud environments using intelligent agents.
+I am an Application Engineer at GenNext specializing in PLM engineering solutions, cloud infrastructure management, and modern automation. My core focus bridges traditional enterprise engineering systems (like Teamcenter and NX, Cortona3D) with cutting-edge AI automation, MCP servers, and cyber security workflows. I enjoy building robust automation and securing cloud environments using intelligent agents.
 
 
 🎯 **What I focus on**
