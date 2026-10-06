@@ -23,6 +23,7 @@ I build at the intersection of AI automation, cybersecurity, and infrastructure.
 
 | Project | What it is | Stack |
 |---|---|---|
+| 🛡️ [RAG Guardrails & API](https://github.com/Aravindkumar-S/rag-guardrails-api.git) | Secure Retrieval-Augmented Generation pipeline featuring input/output safety guardrails, hallucination checks, and a clean API wrapper | Python, FastAPI, RAG, LLM Security |
 | 📊 [Telemetry Agent](https://github.com/Aravindkumar-S/SecOps-MCP-Server-.git) | System telemetry and monitoring agent for tracking device performance, resource utilization, and operational health metrics | Rust, tokio (asyn runtime), axum (web framework), rusqlite |
 | 🔌 [SecOps MCP Server](https://github.com/Aravindkumar-S/Telemetery_Agent.git) | Model Context Protocol server for security operations — exposing threat intelligence and log analysis tools directly to AI clients | Python, TpeScript/Node.js, @modelcontextprotocol/sdk, Docker |
 | 🛡️ [Real-Time Phishing Detection](https://github.com/Aravindkumar-S/Real-Time-Phishing-Detection-Using-Artificial-Intelligence-ML) | End-to-end ML pipeline detecting phishing URLs — Random Forest / Decision Tree classifier trained on labeled URL datasets | Python, scikit-learn, Pandas, NumPy |
